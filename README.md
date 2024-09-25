@@ -7,6 +7,8 @@ Preprocessing of the Titanic dataset (handling missing values, feature engineeri
 Training an XGBoost model to predict survival
 Interactive web app for making predictions on new data
 Visualization of the prediction results
+
+
 **Technologies Used**
 XGBoost: For model training and predictions
 Streamlit: For building and deploying the web app
