@@ -16,7 +16,11 @@ Visualization of the prediction results.
 **Technologies Used:**
 
 XGBoost: For model training and predictions.
+
 Streamlit: For building and deploying the web app.
+
 Pandas: For data manipulation and preprocessing.
+
 Numpy: For numerical computations.
+
 scikit-learn: For handling pipelines, transformers, and preprocessing.
